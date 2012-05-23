@@ -1,0 +1,15 @@
+--- 
+cursor_positions: 
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-05-22 00:51:51.483000 -04:00
+  - :path: config/routes.rb
+    :cursor_offset: 1392
+    :timestamp: 2012-05-22 01:21:31.924000 -04:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 70
+    :timestamp: 2012-05-22 01:21:31.920000 -04:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 47
+    :timestamp: 2012-05-22 01:23:12.955000 -04:00
+files_to_retain: 0
